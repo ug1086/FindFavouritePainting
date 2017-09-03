@@ -265,7 +265,7 @@ function populate3(e) {
     console.log("painting", selectedValue);
     var paintingImg = document.createElement("img");
     paintingImg.setAttribute('id', 'paintingImg');
-    paintingImg.src = "../Project 1/resources/images/" + selectedValue + ".jpg";
+    paintingImg.src = "../FindFavouritePainting/resources/images/" + selectedValue + ".jpg";
     console.log(paintingImg.src);
     paintingImg.alt = "Painting Image";
     paintingImg.setAttribute("style", "height:240px;width:300px");
