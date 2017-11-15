@@ -1,4 +1,4 @@
 # ug1086
-A simple JavaScript application that lets user search for his favourite painting!
+A simple JavaScript application that lets a user search for his favourite painting!
 
 Link --> https://ug1086.github.io/FindFavouritePainting/index.html
